@@ -78,6 +78,6 @@ If you've got a freelance Flutter project, or just want to talk shop, I'm probab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:FF00C7&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00C9FF&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20🤝&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
