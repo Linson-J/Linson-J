@@ -3,13 +3,19 @@
 <!-- ANIMATED HEADER BANNER (fully hosted, nothing to upload) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8E2DE2&height=230&section=header&text=Hi,%20I'm%20Linson%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20•%20Flutter%20Developer%20•%20Python%20Enthusiast&descAlignY=54&descSize=16" width="100%"/>
 
+<br><br>
+
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Linson-J">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B39CFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Turning+messy+ideas+into+clean+UI+%F0%9F%92%BB;Frontend+%2B+Flutter+Developer;Building+with+Django+%2B+SQL+%F0%9F%97%84%EF%B8%8F;Still+early%2C+still+hungry+to+learn+%F0%9F%9A%80;Open+for+Freelance+Flutter+Work+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+<br><br>
+
 <!-- PROFILE VIEW COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Linson-J&label=Profile%20Views&color=302b63&style=for-the-badge" alt="Profile views"/>
+
+<br><br>
 
 <!-- SOCIAL ICONS -->
 <p>
@@ -72,6 +78,6 @@ If you've got a freelance Flutter project, or just want to talk shop, I'm probab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:FF00C7&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
