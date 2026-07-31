@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER (fully hosted, nothing to upload) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8E2DE2&height=230&section=header&text=Hi,%20I'm%20Linson%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20•%20Flutter%20Developer%20•%20Python%20Enthusiast&descAlignY=54&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:8E2DE2&height=230&section=header&text=Hi,%20I'm%20Linson%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20•%20Flutter%20Developer%20•%20Python%20Enthusiast&descAlignY=54&descSize=16" width="100%"/>
 
 <br><br>
 
@@ -78,6 +78,6 @@ If you've got a freelance Flutter project, or just want to talk shop, I'm probab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00C9FF&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20🤝&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:302b63,100:0f0c29&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20🤝&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
