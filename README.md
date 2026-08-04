@@ -1,83 +1,192 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER (fully hosted, nothing to upload) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:8E2DE2&height=230&section=header&text=Hi,%20I'm%20Linson%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20•%20Flutter%20Developer%20•%20Python%20Enthusiast&descAlignY=54&descSize=16" width="100%"/>
+![Web divider](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:B7211D,100:FFFACD&height=140&section=header&text=LINSON%20J&fontSize=52&fontColor=FFFACD&fontAlignY=40&animation=twinkling&desc=your%20friendly%20neighborhood%20flutter%20developer&descAlignY=62&descColor=FFFACD)
 
-<br><br>
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/Linson-J">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B39CFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Turning+messy+ideas+into+clean+UI+%F0%9F%92%BB;Frontend+%2B+Flutter+Developer;Building+with+Django+%2B+SQL+%F0%9F%97%84%EF%B8%8F;Still+early%2C+still+hungry+to+learn+%F0%9F%9A%80;Open+for+Freelance+Flutter+Work+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<!-- PROFILE VIEW COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Linson-J&label=Profile%20Views&color=302b63&style=for-the-badge" alt="Profile views"/>
-
-<br><br>
-
-<!-- SOCIAL ICONS -->
-<p>
-  <a href="https://linson.ct.ws" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=googlechrome&logoColor=B39CFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/linson-j" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00C9FF" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=FF00C7" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2800&pause=900&color=FFFACD&background=000000&center=true&vCenter=true&width=650&height=60&lines=WITH+GREAT+STATE+MANAGEMENT...;COMES+GREAT+RESPONSIVENESS.;Flutter+%2F+Dart+%2F+GetX+%2F+Firebase;Freelance+Web-Slinger+%7C+Open+for+Gigs" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-### 🧑‍💻 A bit about me
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#000000">
 
-I'm Linson — a frontend developer based in Chennai who got hooked on coding somewhere between breaking my own CSS and refusing to stop until it looked right. These days I move between frontend work, freelancing in **Flutter**, and building things full-stack with **Django** and SQL on the backend.
+### 🕸️ ISSUE #01 — ORIGIN STORY
 
-I'm still early in my career, which honestly works in my favor — every bug I fix and every screen I ship teaches me something I didn't know last week. Right now I'm building a full-stack **e-commerce site** — Django powering the backend, SQL handling the data — while still taking on Flutter work on the side.
+</td>
+</tr>
+</table>
 
-If you've got a freelance Flutter project, or just want to talk shop, I'm probably in.
+> *"Bitten by a radioactive `StatefulWidget`, Linson J gained the proportional strength and reactivity of `GetX`. By day, a Junior Flutter Developer at **Ellantec Pvt Ltd**, Tirunelveli. By night (and weekends), a freelance builder shipping apps under the banner of **Weekend Developers**."*
 
----
+<table>
+<tr>
+<td>
 
-### 🎯 Currently
+**🕷️ Real Identity:** Linson J (Joel)
+**🏙️ Base of Operations:** Chennai / Tirunelveli, Tamil Nadu, India
+**💼 Day Job:** Junior Flutter Developer @ Ellantec Pvt Ltd
+**🎯 Current Mission:** Freelance Flutter contracts + leveling up toward Clean Architecture & BLoC
+**🤝 Side Quest:** Mentor/contributor at **ENRISERS** — student empowerment & career events
+**🌐 HQ:** [linson.ct.ws](https://linson.ct.ws)
 
-- 🛒 Building a full-stack **e-commerce site** with **Django**
-- 📱 Freelancing in **Flutter**
-- 🗄️ Getting hands-on with **SQL** & database design
-- 🎨 Chasing clean, smooth **UI/UX** over anything flashy-but-clunky
-- 📍 Chennai, India
-- 💼 Open to freelance work — [say hi](https://linson.ct.ws)
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### 🛠️ Tech Stack
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#B7211D">
+
+### 🕸️ ISSUE #02 — POWERS & ABILITIES
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-302b63?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-302b63?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Django-302b63?style=for-the-badge&logo=django&logoColor=092E20"/>
-<img src="https://img.shields.io/badge/MySQL-302b63?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Flutter-302b63?style=for-the-badge&logo=flutter&logoColor=02569B"/>
-<img src="https://img.shields.io/badge/Dart-302b63?style=for-the-badge&logo=dart&logoColor=0175C2"/>
-<img src="https://img.shields.io/badge/Firebase-302b63?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Git-302b63?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS%20Code-302b63?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+**// Core Web-Fluid Formula //**
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFACD)
+![Dart](https://img.shields.io/badge/Dart-B7211D?style=for-the-badge&logo=dart&logoColor=FFFACD)
+![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logoColor=FFFACD)
+![Firebase](https://img.shields.io/badge/Firebase-B7211D?style=for-the-badge&logo=firebase&logoColor=FFFACD)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=FFFACD)
+
+**// Supporting Tech (Trained, Not Bitten) //**
+
+![Python](https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=000000)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFACD)
+![Laravel](https://img.shields.io/badge/Laravel-B7211D?style=for-the-badge&logo=laravel&logoColor=FFFACD)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFACD)
+![MySQL](https://img.shields.io/badge/MySQL-FFFACD?style=for-the-badge&logo=mysql&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-B7211D?style=for-the-badge&logo=git&logoColor=FFFACD)
+
+**// Currently Training For //**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logoColor=FFFACD)
+![BLoC](https://img.shields.io/badge/BLoC-B7211D?style=flat-square&logoColor=FFFACD)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logoColor=FFFACD)
 
 </div>
 
----
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#000000">
+
+### 🕸️ ISSUE #03 — THE ROGUES GALLERY I'VE DEFEATED (a.k.a. Featured Projects)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 💥 A2ZService
+**"The Multi-Theme Menace"**
+Service-booking Flutter app with animated light/dark theme switching, theme-aware shimmer widgets, and encrypted theme persistence.
+
+`Flutter` `GetX` `flutter_secure_storage` `Dynamic Theming`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💥 Eatzy
+**"The Three-App Trilogy"**
+A full food-delivery ecosystem — Admin, Customer & Delivery Partner apps — with real-time FCM push notifications as the final boss fight.
+
+`Flutter` `GetX` `Firebase FCM` `Multi-App Architecture`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💥 Ellan Events (NGO App)
+**"Operation Community Impact"**
+Event management app for an NGO — add/edit event flows, secure multipart image uploads, and localized Tamil-script UI components.
+
+`Flutter` `GetX` `REST APIs` `Multipart Uploads`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💥 Full-Stack E-Commerce
+**"The Django Directive"**
+A complete e-commerce platform built from the ground up — product catalog, orders, and relational data modeling.
+
+`Django` `Python` `SQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💥 Carnelian Ornaments
+**"The Laravel Ledger"**
+Personal e-commerce build for an ornaments storefront — catalog, cart, and checkout logic from scratch.
+
+`Laravel` `PHP` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💥 Random Joke Generator
+**"Comic Relief, Literally"**
+A lightweight joke generator with a public API and smooth fade-in transitions — because even superheroes need a laugh.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#B7211D">
+
+### 🕸️ ISSUE #04 — SIGNAL THE SPIDER
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:302b63,100:0f0c29&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20🤝&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFACD)](https://www.linkedin.com/in/linson-j/)
+[![GitHub](https://img.shields.io/badge/GitHub-B7211D?style=for-the-badge&logo=github&logoColor=FFFACD)](https://github.com/Linson-J)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFACD)](https://linson.ct.ws)
+[![Weekend Developers](https://img.shields.io/badge/Weekend_Developers-B7211D?style=for-the-badge&logo=instagram&logoColor=FFFACD)](https://github.com/Linson-J)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+     .-'  '-.        "Your friendly neighborhood
+    /  o  o  \        Flutter dev — open for
+   |    ▽    |        freelance web-slinging."
+    \  ___  /
+     '.___.'
+   ___/| |\___
+  /   / | \   \
+ /___/  |  \___\
+```
+
+**THWIP.** *Thanks for stopping by — now go check out the code.*
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:FFFACD,50:B7211D,100:000000&height=100&section=footer)
 
 </div>
