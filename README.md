@@ -8,17 +8,13 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="100%" bgcolor="#000000">
+<div align="center">
 
-### 🕸️ ISSUE #01 — ORIGIN STORY
+![Issue 01](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:B7211D&height=64&section=header&text=ISSUE%20%2301%20-%20ORIGIN%20STORY&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
 
-</td>
-</tr>
-</table>
+</div>
 
-> *"Bitten by a radioactive `StatefulWidget`, Linson J gained the proportional strength and reactivity of `GetX`. By day, a Junior Flutter Developer at **Ellantec Pvt Ltd**, Tirunelveli. By night (and weekends), a freelance builder shipping apps under the banner of **Weekend Developers**."*
+> *"Bitten by a radioactive `StatefulWidget`, Linson J gained the proportional strength and reactivity of `GetX`. By day, a Junior Flutter Developer holding the line in Tirunelveli. By night (and weekends), a freelance builder shipping apps under the banner of **Weekend Developers**."*
 
 <table>
 <tr>
@@ -26,7 +22,7 @@
 
 **🕷️ Real Identity:** Linson J (Joel)
 **🏙️ Base of Operations:** Chennai / Tirunelveli, Tamil Nadu, India
-**💼 Day Job:** Junior Flutter Developer @ Ellantec Pvt Ltd
+**💼 Day Job:** Junior Flutter Developer
 **🎯 Current Mission:** Freelance Flutter contracts + leveling up toward Clean Architecture & BLoC
 **🤝 Side Quest:** Mentor/contributor at **ENRISERS** — student empowerment & career events
 **🌐 HQ:** [linson.ct.ws](https://linson.ct.ws)
@@ -37,15 +33,11 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="100%" bgcolor="#B7211D">
+<div align="center">
 
-### 🕸️ ISSUE #02 — POWERS & ABILITIES
+![Issue 02](https://capsule-render.vercel.app/api?type=rect&color=0:B7211D,100:000000&height=64&section=header&text=ISSUE%20%2302%20-%20POWERS%20%26%20ABILITIES&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -76,15 +68,23 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="100%" bgcolor="#000000">
+<div align="center">
 
-### 🕸️ ISSUE #03 — THE ROGUES GALLERY I'VE DEFEATED (a.k.a. Featured Projects)
+![Issue 03](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:B7211D&height=64&section=header&text=ISSUE%20%2303%20-%20SKILL%20ANALYSIS%20%28POWER%20LEVELS%29&fontSize=20&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
 
-</td>
-</tr>
-</table>
+<br><br>
+
+<img src="assets/skill-analysis.svg" width="100%" alt="Animated skill proficiency bars" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Issue 04](https://capsule-render.vercel.app/api?type=rect&color=0:B7211D,100:000000&height=64&section=header&text=ISSUE%20%2304%20-%20THE%20ROGUES%20GALLERY&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
+
+</div>
 
 <table width="100%">
 <tr>
@@ -151,15 +151,11 @@ A lightweight joke generator with a public API and smooth fade-in transitions �
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="100%" bgcolor="#B7211D">
+<div align="center">
 
-### 🕸️ ISSUE #04 — SIGNAL THE SPIDER
+![Issue 05](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:B7211D&height=64&section=header&text=ISSUE%20%2305%20-%20SIGNAL%20THE%20SPIDER&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
