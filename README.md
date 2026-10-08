@@ -1,8 +1,12 @@
 <div align="center">
 
-![Web divider](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:B7211D,100:FFFACD&height=140&section=header&text=LINSON%20J&fontSize=52&fontColor=FFFACD&fontAlignY=40&animation=twinkling&desc=your%20friendly%20neighborhood%20flutter%20developer&descAlignY=62&descColor=FFFACD)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4B,50:B11313,100:E23636&height=200&section=header&text=LINSON%20J&fontSize=70&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Your%20Friendly%20Neighborhood%20Flutter%20Developer&descSize=18&descAlignY=58&descColor=FFFFFF)
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2800&pause=900&color=FFFACD&background=000000&center=true&vCenter=true&width=650&height=60&lines=WITH+GREAT+STATE+MANAGEMENT...;COMES+GREAT+RESPONSIVENESS.;Flutter+%2F+Dart+%2F+GetX+%2F+Firebase;Freelance+Web-Slinger+%7C+Open+for+Gigs" alt="Typing SVG" />
+<a href="https://github.com/Linson-J">
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=30&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=650&height=60&lines=WITH+GREAT+STATE+MANAGEMENT...;COMES+GREAT+RESPONSIVENESS.;Flutter+%7C+Dart+%7C+GetX+%7C+Firebase;Freelance+Web-Slinger+%7C+Open+for+Gigs" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Linson-J&label=CITIZENS%20SAVED&color=B11313&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -10,7 +14,7 @@
 
 <div align="center">
 
-![Issue 01](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:B7211D&height=64&section=header&text=ISSUE%20%2301%20-%20ORIGIN%20STORY&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
+![Issue 01](https://capsule-render.vercel.app/api?type=rect&color=0:0B1F4B,100:B11313&height=60&section=header&text=ISSUE%20%2301%20%E2%80%94%20ORIGIN%20STORY&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
 </div>
 
@@ -20,12 +24,12 @@
 <tr>
 <td>
 
-**🕷️ Real Identity:** Linson J (Joel)
-**🏙️ Base of Operations:** Chennai / Tirunelveli, Tamil Nadu, India
-**💼 Day Job:** Junior Flutter Developer
-**🎯 Current Mission:** Freelance Flutter contracts + leveling up toward Clean Architecture & BLoC
-**🤝 Side Quest:** Mentor/contributor at **ENRISERS** — student empowerment & career events
-**🌐 HQ:** [linson.ct.ws](https://linson.ct.ws)
+🕷️ **Real Identity:** Linson J (Joel)<br>
+🏙️ **Base of Operations:** Chennai / Tirunelveli, Tamil Nadu, India<br>
+💼 **Day Job:** Junior Flutter Developer<br>
+🎯 **Current Mission:** Freelance Flutter contracts + leveling up toward Clean Architecture & BLoC<br>
+🤝 **Side Quest:** Mentor/contributor at **ENRISERS** — student empowerment & career events<br>
+🌐 **HQ:** [linson.ct.ws](https://linson.ct.ws)
 
 </td>
 </tr>
@@ -35,34 +39,30 @@
 
 <div align="center">
 
-![Issue 02](https://capsule-render.vercel.app/api?type=rect&color=0:B7211D,100:000000&height=64&section=header&text=ISSUE%20%2302%20-%20POWERS%20%26%20ABILITIES&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
+![Issue 02](https://capsule-render.vercel.app/api?type=rect&color=0:B11313,100:0B1F4B&height=60&section=header&text=ISSUE%20%2302%20%E2%80%94%20POWERS%20%26%20ABILITIES&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
-</div>
+**🕸️ Core Web-Fluid Formula**
 
-<div align="center">
+![Flutter](https://img.shields.io/badge/Flutter-0B1F4B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-B11313?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-0B1F4B?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-B11313?style=for-the-badge&logo=firebase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0B1F4B?style=for-the-badge&logo=postman&logoColor=white)
 
-**// Core Web-Fluid Formula //**
+**🕸️ Supporting Tech (Trained, Not Bitten)**
 
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFACD)
-![Dart](https://img.shields.io/badge/Dart-B7211D?style=for-the-badge&logo=dart&logoColor=FFFACD)
-![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logoColor=FFFACD)
-![Firebase](https://img.shields.io/badge/Firebase-B7211D?style=for-the-badge&logo=firebase&logoColor=FFFACD)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=FFFACD)
+![Python](https://img.shields.io/badge/Python-B11313?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0B1F4B?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-B11313?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0B1F4B?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-B11313?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B1F4B?style=for-the-badge&logo=git&logoColor=white)
 
-**// Supporting Tech (Trained, Not Bitten) //**
+**🕷️ Spider-Sense Training (Currently Learning)**
 
-![Python](https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=000000)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFACD)
-![Laravel](https://img.shields.io/badge/Laravel-B7211D?style=for-the-badge&logo=laravel&logoColor=FFFACD)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFACD)
-![MySQL](https://img.shields.io/badge/MySQL-FFFACD?style=for-the-badge&logo=mysql&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-B7211D?style=for-the-badge&logo=git&logoColor=FFFACD)
-
-**// Currently Training For //**
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logoColor=FFFACD)
-![BLoC](https://img.shields.io/badge/BLoC-B7211D?style=flat-square&logoColor=FFFACD)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logoColor=FFFACD)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-B11313?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC-0B1F4B?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-B11313?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -70,28 +70,35 @@
 
 <div align="center">
 
-![Issue 03](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:B7211D&height=64&section=header&text=ISSUE%20%2303%20-%20SKILL%20ANALYSIS%20%28POWER%20LEVELS%29&fontSize=20&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
-
-<br><br>
-
-<img src="assets/skill-analysis.svg" width="100%" alt="Animated skill proficiency bars" />
+![Issue 03](https://capsule-render.vercel.app/api?type=rect&color=0:0B1F4B,100:B11313&height=60&section=header&text=ISSUE%20%2303%20%E2%80%94%20POWER%20LEVELS&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
 </div>
+
+```text
+FLUTTER      ██████████████████░░  90%
+DART         █████████████████░░░  85%
+GETX         █████████████████░░░  85%
+FIREBASE     ███████████████░░░░░  75%
+REST APIs    ████████████████░░░░  80%
+DJANGO       ████████████░░░░░░░░  60%
+LARAVEL/PHP  ███████████░░░░░░░░░  55%
+BLoC         ████████░░░░░░░░░░░░  40%  ▲ training
+```
 
 <br>
 
 <div align="center">
 
-![Issue 04](https://capsule-render.vercel.app/api?type=rect&color=0:B7211D,100:000000&height=64&section=header&text=ISSUE%20%2304%20-%20THE%20ROGUES%20GALLERY&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
+![Issue 04](https://capsule-render.vercel.app/api?type=rect&color=0:B11313,100:0B1F4B&height=60&section=header&text=ISSUE%20%2304%20%E2%80%94%20VILLAINS%20DEFEATED&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
 </div>
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-#### 💥 A2ZService
-**"The Multi-Theme Menace"**
+### 💥 A2ZService
+**"The Multi-Theme Menace"**<br>
 Service-booking Flutter app with animated light/dark theme switching, theme-aware shimmer widgets, and encrypted theme persistence.
 
 `Flutter` `GetX` `flutter_secure_storage` `Dynamic Theming`
@@ -99,8 +106,8 @@ Service-booking Flutter app with animated light/dark theme switching, theme-awar
 </td>
 <td width="50%" valign="top">
 
-#### 💥 Eatzy
-**"The Three-App Trilogy"**
+### 💥 Eatzy
+**"The Three-App Trilogy"**<br>
 A full food-delivery ecosystem — Admin, Customer & Delivery Partner apps — with real-time FCM push notifications as the final boss fight.
 
 `Flutter` `GetX` `Firebase FCM` `Multi-App Architecture`
@@ -110,8 +117,8 @@ A full food-delivery ecosystem — Admin, Customer & Delivery Partner apps — w
 <tr>
 <td width="50%" valign="top">
 
-#### 💥 Ellan Events (NGO App)
-**"Operation Community Impact"**
+### 💥 Ellan Events (NGO App)
+**"Operation Community Impact"**<br>
 Event management app for an NGO — add/edit event flows, secure multipart image uploads, and localized Tamil-script UI components.
 
 `Flutter` `GetX` `REST APIs` `Multipart Uploads`
@@ -119,8 +126,8 @@ Event management app for an NGO — add/edit event flows, secure multipart image
 </td>
 <td width="50%" valign="top">
 
-#### 💥 Full-Stack E-Commerce
-**"The Django Directive"**
+### 💥 Full-Stack E-Commerce
+**"The Django Directive"**<br>
 A complete e-commerce platform built from the ground up — product catalog, orders, and relational data modeling.
 
 `Django` `Python` `SQL`
@@ -130,8 +137,8 @@ A complete e-commerce platform built from the ground up — product catalog, ord
 <tr>
 <td width="50%" valign="top">
 
-#### 💥 Carnelian Ornaments
-**"The Laravel Ledger"**
+### 💥 Carnelian Ornaments
+**"The Laravel Ledger"**<br>
 Personal e-commerce build for an ornaments storefront — catalog, cart, and checkout logic from scratch.
 
 `Laravel` `PHP` `MySQL`
@@ -139,8 +146,8 @@ Personal e-commerce build for an ornaments storefront — catalog, cart, and che
 </td>
 <td width="50%" valign="top">
 
-#### 💥 Random Joke Generator
-**"Comic Relief, Literally"**
+### 💥 Random Joke Generator
+**"Comic Relief, Literally"**<br>
 A lightweight joke generator with a public API and smooth fade-in transitions — because even superheroes need a laugh.
 
 `HTML` `CSS` `JavaScript`
@@ -153,36 +160,17 @@ A lightweight joke generator with a public API and smooth fade-in transitions �
 
 <div align="center">
 
-![Issue 05](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:B7211D&height=64&section=header&text=ISSUE%20%2305%20-%20SIGNAL%20THE%20SPIDER&fontSize=22&fontColor=FFFACD&fontAlignY=42&animation=twinkling)
+![Issue 05](https://capsule-render.vercel.app/api?type=rect&color=0:0B1F4B,100:B11313&height=60&section=header&text=ISSUE%20%2305%20%E2%80%94%20SIGNAL%20THE%20SPIDER&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFACD)](https://www.linkedin.com/in/linson-j/)
-[![GitHub](https://img.shields.io/badge/GitHub-B7211D?style=for-the-badge&logo=github&logoColor=FFFACD)](https://github.com/Linson-J)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFACD)](https://linson.ct.ws)
-[![Weekend Developers](https://img.shields.io/badge/Weekend_Developers-B7211D?style=for-the-badge&logo=instagram&logoColor=FFFACD)](https://github.com/Linson-J)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F4B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linson-j/)
+[![GitHub](https://img.shields.io/badge/GitHub-B11313?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Linson-J)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1F4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://linson.ct.ws)
+[![Weekend Developers](https://img.shields.io/badge/Weekend_Developers-B11313?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE_HERE/)
 
 <br>
 
-<div align="center">
+**🕸️ THWIP!** *Thanks for swinging by — now go check out the code.*
 
-```
-     .-'  '-.        "Your friendly neighborhood
-    /  o  o  \        Flutter dev — open for
-   |    ▽    |        freelance web-slinging."
-    \  ___  /
-     '.___.'
-   ___/| |\___
-  /   / | \   \
- /___/  |  \___\
-```
-
-**THWIP.** *Thanks for stopping by — now go check out the code.*
-
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:FFFACD,50:B7211D,100:000000&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:B11313,100:0B1F4B&height=120&section=footer)
 
 </div>
